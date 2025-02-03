@@ -1,0 +1,77 @@
+div.menu {
+    background-color: #08001ffb;
+    overflow:auto;
+    white-space:nowrap;
+
+  }
+  div.menu a {
+    display:inline-block;
+    color: rgb(193, 198, 211);
+    text-align:center;
+    padding:20px;
+    text-decoration: none;
+    
+  }
+  div.menu a:hover {
+    background-color: #31717c7c;
+  }
+  footer{
+      background-color: rgb(3, 16, 43);
+      padding: 20px;
+  }
+    body {
+        background-color: rgb(12, 2, 97);
+        background-image: url(https://media.tenor.com/wiMyvo8ZFN0AAAAj/pinguim-penguin.gif);
+        background-size: 100%;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+}
+div {
+    border: 150px solid rgb(67, 99, 204);
+    padding: 80px;
+    margin: 60px;
+    width: 500px;
+    border-image: url(https://preview.redd.it/6u5ellqamjo91.gif?width=512&auto=webp&s=c1d36c9577e30de84c1a5acca43eea69e401959b);
+  border-color: aqua;
+  }
+  <!-- Content : conteúdo da caixa, onde aparecem texto e imagens. -->
+  <!-- Padding - Limpa uma área ao redor do conteúdo. O padding é transparente. -->
+  <!-- ● Border - Uma borda que circunda o preenchimento e o conteúdo.-->
+  <!-- Margin - Limpa uma área fora da borda. A margem é transparente.-->
+  <!--  Box-Sizing: É uma propriedade que altera a forma
+  como a largura e altura de um
+  elemento são calculadas.-->
+  <!--O valor padrão é content-box, o que
+  significa que padding e border não
+  fazem parte da largura e altura
+  definidas. -->
+  <!--O valor border-box inclui padding e
+  border dentro da largura e altura
+  definidas. -->
+  <!-- A propriedade overflow define como o
+  conteúdo de um elemento é tratado quando
+  ultrapassa seu tamanho definido.-->
+  <!--Valores principais:
+  ○ visible: O conteúdo extravasa o contêiner
+  (padrão).
+  ○ hidden: O conteúdo é cortado e não é visível.
+  ○ scroll: Adiciona barras de rolagem, mesmo
+  quando o conteúdo não ultrapassa o tamanho
+  do contêiner.
+  ○ auto: Adiciona barras de rolagem somente
+  quando necessário. -->
+  <!-- Use overflow: auto quando você precisar de
+  rolagem, mas sem barras fixas. -->
+  <!-- ● A propriedade visibility controla a visibilidade de um elemento sem removê-lo do fluxo do layout.
+  ● Valores:
+  ● visible: O elemento é visível (padrão).
+  ● hidden: O elemento é invisível, mas ainda ocupa o espaço no layout.
+  ● collapse: Usado para tabelas, onde o comportamento é semelhante ao hidden, mas
+  também remove o espaço ocupado (somente para tabelas).
+  
+  ● Use visibility quando quiser ocultar um elemento sem mudar o fluxo do layout. -->
+  <!-- max-width: largura máxima.
+  ● max-height: altura máxima.
+  ● min-width: largura mínima.
+  ● min-height: altura mínima. -->
+  <!-- -->
